@@ -1,0 +1,14 @@
+# expression data (public, see data/README.md)
+data/raw/
+data/gene_sets/h.all*.gmt
+
+# full differential expression tables are large; the ranked lists are kept
+results/pairwise_DE_results/
+results/MB_DE_results/
+results/exploratory/
+
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+.DS_Store

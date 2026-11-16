@@ -1,0 +1,11 @@
+"comparison","up","down","ns"
+"Group3_vs_rest",3,9,5
+"Group4_vs_rest",4,10,3
+"SHH_vs_rest",6,2,9
+"WNT_vs_rest",10,2,5
+"Ependymoma_vs_DMG_H3K27_altered",8,9,0
+"Medulloblastoma_vs_DMG_H3K27_altered",0,17,0
+"Medulloblastoma_vs_Ependymoma",2,15,0
+"Pilocytic_astrocytoma_vs_DMG_H3K27_altered",16,0,1
+"Pilocytic_astrocytoma_vs_Ependymoma",15,2,0
+"Pilocytic_astrocytoma_vs_Medulloblastoma",17,0,0

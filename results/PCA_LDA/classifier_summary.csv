@@ -1,0 +1,2 @@
+"cohort","n_samples","n_pcs","loocv_correct","loocv_accuracy"
+"tumour_types",195,4,173,0.887179487179487

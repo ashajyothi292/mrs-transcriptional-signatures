@@ -1,0 +1,196 @@
+sample_id,tumor_type
+M001AAE_T1,Pilocytic astrocytoma
+M006AAB_T1,Pilocytic astrocytoma
+M007AAB_T1,Pilocytic astrocytoma
+M008AAB_T1,Pilocytic astrocytoma
+M013AAB_T1,Pilocytic astrocytoma
+M020AAB_T1,Medulloblastoma
+M033AAC_T1,DMG_H3K27_altered
+M036AAB_T1,Ependymoma
+M037AAB_T1,DMG_H3K27_altered
+M044AAA_T1,Ependymoma
+M049AAD_T1,Ependymoma
+M050AAD_T1,Ependymoma
+M051AAD_T1,Ependymoma
+M057AAB_T1,Medulloblastoma
+M070AAB_T1,Medulloblastoma
+M071AAB_T1,Medulloblastoma
+M072AAB_T1,Medulloblastoma
+M084AAC_T1,Pilocytic astrocytoma
+M092AAE_T1,Medulloblastoma
+M106AAD_T1,Medulloblastoma
+M115AAD_T1,DMG_H3K27_altered
+M127AAA_T1,Pilocytic astrocytoma
+M132AAA_T1,Pilocytic astrocytoma
+M135AAA_T1,Medulloblastoma
+M137AAA_T1,Pilocytic astrocytoma
+M138AAD_T1,Pilocytic astrocytoma
+M141AAB_T1,Pilocytic astrocytoma
+M144AAA_T1,Pilocytic astrocytoma
+M144AAB_T1,Pilocytic astrocytoma
+M145AAA_T1,Pilocytic astrocytoma
+M147AAB_T1,Pilocytic astrocytoma
+M150AAA_T1,DMG_H3K27_altered
+M150AAB_T1,Pilocytic astrocytoma
+M160AAB_T1,Pilocytic astrocytoma
+M172AAB_T1,Pilocytic astrocytoma
+M172AAD_T1,Pilocytic astrocytoma
+M173AAB_T1,Pilocytic astrocytoma
+M173AAD_T1,Pilocytic astrocytoma
+M174AAD_T1,Pilocytic astrocytoma
+M183AAD_T1,DMG_H3K27_altered
+M183AAF_T1,Pilocytic astrocytoma
+M184AAD_T1,DMG_H3K27_altered
+M185AAA_T1,Medulloblastoma
+M185AAD_T1,DMG_H3K27_altered
+M186AAF_T1,Pilocytic astrocytoma
+M187AAF_T1,Pilocytic astrocytoma
+M191AAB_T1,Pilocytic astrocytoma
+M204AAB_T1,DMG_H3K27_altered
+M214AAB_T1,Ependymoma
+M215AAD_T1,Medulloblastoma
+M216AAD_T1,Medulloblastoma
+M218AAA_T1,Pilocytic astrocytoma
+M223AAE_T1,Pilocytic astrocytoma
+M229AAA_T1,Ependymoma
+M233AAD_T1,Pilocytic astrocytoma
+M241AAA_T1,Pilocytic astrocytoma
+M242AAA_T1,Pilocytic astrocytoma
+M242AAB_T1,Medulloblastoma
+M265AAB_T1,Pilocytic astrocytoma
+M272AAD_T1,Medulloblastoma
+M274AAD_T1,Medulloblastoma
+M285AAA_T1,Pilocytic astrocytoma
+M308AAD_T1,Medulloblastoma
+M317AAD_T1,Pilocytic astrocytoma
+M318AAD_T1,Pilocytic astrocytoma
+M319AAD_T1,Pilocytic astrocytoma
+M320AAD_T1,Pilocytic astrocytoma
+M321AAD_T1,Pilocytic astrocytoma
+M322AAA_T1,Medulloblastoma
+M322AAD_T1,Pilocytic astrocytoma
+M336AAA_T1,Pilocytic astrocytoma
+M346AAA_T1,Medulloblastoma
+M354AAB_T1,DMG_H3K27_altered
+M356AAB_T1,Pilocytic astrocytoma
+M358AAD_T1,DMG_H3K27_altered
+M360AAD_T1,Medulloblastoma
+M361AAD_T1,Medulloblastoma
+M374AAA_T1,Pilocytic astrocytoma
+M379AAA_T1,Ependymoma
+M384AAA_T1,Pilocytic astrocytoma
+M388AAA_T1,Ependymoma
+M400AAD_T1,Ependymoma
+M407AAD_T1,Ependymoma
+M408AAD_T1,Ependymoma
+M410AAD_T1,Ependymoma
+M414AAA_T1,Pilocytic astrocytoma
+M431AAC_T1,Pilocytic astrocytoma
+M473AAD_T1,Medulloblastoma
+M476AAA_T1,Pilocytic astrocytoma
+M487AAA_T1,Pilocytic astrocytoma
+M492AAD_T1,DMG_H3K27_altered
+M495AAD_T1,DMG_H3K27_altered
+M506AAB_T1,Ependymoma
+M507AAB_T1,Medulloblastoma
+M516AAD_T1,DMG_H3K27_altered
+M518AAD_T1,DMG_H3K27_altered
+M520AAA_T1,Ependymoma
+M532AAD_T1,DMG_H3K27_altered
+M535AAD_T1,DMG_H3K27_altered
+M540AAD_T1,Pilocytic astrocytoma
+M545AAA_T1,Pilocytic astrocytoma
+M548AAA_T1,Medulloblastoma
+M548AAD_T1,Pilocytic astrocytoma
+M556AAA_T1,Pilocytic astrocytoma
+M556AAD_T1,Pilocytic astrocytoma
+M568AAC_T1,Medulloblastoma
+M587AAA_T1,Pilocytic astrocytoma
+M589AAA_T1,Pilocytic astrocytoma
+M591AAA_T1,DMG_H3K27_altered
+M604AAD_T1,Pilocytic astrocytoma
+M606AAC_T1,Ependymoma
+M618AAA_T1,Pilocytic astrocytoma
+M622AAA_T1,Pilocytic astrocytoma
+M629AAC_T1,Pilocytic astrocytoma
+M650AAC_T1,Pilocytic astrocytoma
+M655AAA_T1,Medulloblastoma
+M657AAD_T1,Pilocytic astrocytoma
+M659AAA_T1,Pilocytic astrocytoma
+M662AAA_T1,Pilocytic astrocytoma
+M663AAD_T1,DMG_H3K27_altered
+M668AAD_T1,Medulloblastoma
+M669AAD_T1,DMG_H3K27_altered
+M677AAD_T1,Pilocytic astrocytoma
+M687AAD_T1,Ependymoma
+M698AAA_T1,Medulloblastoma
+M721AAB_T1,Ependymoma
+M723AAB_T1,Medulloblastoma
+M724AAB_T1,Ependymoma
+M724AAD_T1,DMG_H3K27_altered
+M728AAA_T1,Medulloblastoma
+M731AAB_T1,Pilocytic astrocytoma
+M734AAB_T1,Ependymoma
+M740AAA_T1,Ependymoma
+M743AAD_T1,Medulloblastoma
+M752AAA_T1,DMG_H3K27_altered
+M761AAC_T1,Pilocytic astrocytoma
+M777AAA_T1,Pilocytic astrocytoma
+M778AAD_T1,Pilocytic astrocytoma
+M790AAA_T1,Medulloblastoma
+M793AAA_T1,Medulloblastoma
+M798AAB_T1,Medulloblastoma
+M798AAD_T1,Pilocytic astrocytoma
+M799AAA_T1,Medulloblastoma
+M800AAD_T1,Pilocytic astrocytoma
+M812AAA_T1,Medulloblastoma
+M812AAB_T1,Pilocytic astrocytoma
+M817AAB_T1,Pilocytic astrocytoma
+M819AAA_T1,Pilocytic astrocytoma
+M828AAD_T1,Pilocytic astrocytoma
+M835AAD_T1,Pilocytic astrocytoma
+M839AAB_T1,DMG_H3K27_altered
+M842AAB_T1,DMG_H3K27_altered
+M851AAC_T1,Pilocytic astrocytoma
+M862AAB_T1,Pilocytic astrocytoma
+M862AAD_T1,Pilocytic astrocytoma
+M863AAD_T1,Pilocytic astrocytoma
+M864AAC_T1,Pilocytic astrocytoma
+M865AAD_T1,Pilocytic astrocytoma
+M867AAB_T1,Ependymoma
+M867AAD_T1,Pilocytic astrocytoma
+M869AAC_T1,Medulloblastoma
+M869AAD_T1,Pilocytic astrocytoma
+M874AAA_T1,Medulloblastoma
+M876AAB_T1,Pilocytic astrocytoma
+M876AAC_T1,Pilocytic astrocytoma
+M878AAD_T1,Medulloblastoma
+M879AAD_T1,Medulloblastoma
+M882AAD_T1,DMG_H3K27_altered
+M883AAB_T1,Pilocytic astrocytoma
+M887AAA_T1,Ependymoma
+M893AAA_T1,Pilocytic astrocytoma
+M896AAB_T1,Pilocytic astrocytoma
+M905AAB_T1,Pilocytic astrocytoma
+M906AAC_T1,Pilocytic astrocytoma
+M908AAA_T1,Pilocytic astrocytoma
+M920AAA_T1,Pilocytic astrocytoma
+M945AAC_T1,Pilocytic astrocytoma
+M946AAC_T1,Pilocytic astrocytoma
+M947AAC_T1,Pilocytic astrocytoma
+M949AAB_T1,Pilocytic astrocytoma
+M950AAB_T1,Pilocytic astrocytoma
+M959AAA_T1,Pilocytic astrocytoma
+M959AAD_T1,Pilocytic astrocytoma
+M963AAB_T1,DMG_H3K27_altered
+M965AAB_T1,DMG_H3K27_altered
+M977AAB_T1,Pilocytic astrocytoma
+M978AAB_T1,Pilocytic astrocytoma
+M979AAB_T1,Pilocytic astrocytoma
+M983AAB_T1,Pilocytic astrocytoma
+M987AAD_T1,Pilocytic astrocytoma
+M988AAD_T1,Pilocytic astrocytoma
+M998AAC_T1,Pilocytic astrocytoma
+M999AAB_T1,Pilocytic astrocytoma
+M008AAA_T1,Medulloblastoma
+M503AAA_T1,Pilocytic astrocytoma
